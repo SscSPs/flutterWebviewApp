@@ -27,7 +27,7 @@ dependencies:
   flutter_launcher_icons: ^0.7.2+1
 
 flutter_icons:
-  image_path: resources/icon.png
+  image_path: assets/icons/icon.png
   android: true
   ios: true
 
