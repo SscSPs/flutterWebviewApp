@@ -4,6 +4,7 @@ int counter = 0;
 const AppPrimaryColor = primaryBlack;
 const AppTitle = 'ProteinXpress';
 const HomePageTitle = 'ProteinXpress';
+const webURL = "https://proteinxpress.com";
 
 const MaterialColor primaryBlack = MaterialColor(
   _blackPrimaryValue,

@@ -26,7 +26,7 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return WebviewScaffold(
-      url: "https://proteinxpress.com",
+      url: webURL,
       withJavascript: true,
       appBar: PreferredSize(
           preferredSize: Size.fromHeight(0), // So we don't have a app bar
